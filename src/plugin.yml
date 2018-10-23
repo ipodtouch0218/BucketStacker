@@ -1,0 +1,10 @@
+main: me.ipodtouch0218.bucketstacker.BucketStacker
+name: BucketStacker
+version: 1.1.0
+author: ipodtouch0218
+commands:
+   stackbuckets:
+      description: Stacks water and lava buckets in groups up to 16
+      permission: bucketstacker.cmd
+      usage: /<command>
+      aliases: [sb]
